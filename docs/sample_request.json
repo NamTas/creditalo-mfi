@@ -1,0 +1,9 @@
+{
+  "applicant_id": "DEMO-001",
+  "features": {
+    "age": 34, "monthly_income": 22000, "monthly_expenses": 14000, "dependents": 3,
+    "years_in_business": 4, "business_type": "Retail shop", "loan_amount": 50000,
+    "loan_term_months": 12, "prior_loans": 2, "prior_late_payments": 0, "savings_balance": 8000,
+    "group_repayment_rate": 0.92, "mobile_txn_per_month": 18, "utility_on_time_rate": 0.85
+  }
+}

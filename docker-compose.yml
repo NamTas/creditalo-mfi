@@ -1,0 +1,11 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      - CREDITALO_API_KEY=${CREDITALO_API_KEY:-}
+  dashboard:
+    build: .
+    command: ["streamlit", "run", "dashboard/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports: ["8501:8501"]
+    depends_on: [api]
