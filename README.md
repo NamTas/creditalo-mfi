@@ -29,7 +29,7 @@
 
 ## 📖 Project Overview
 
-**CreditAlo MFI** (also known as **TrustLens MFI**) is an end-to-end **credit risk platform for microfinance and digital lending**. It takes a borrower's profile, estimates the **Probability of Default (PD)**, converts it into a transparent **0–100 credit score**, and explains every decision in plain language, while keeping fairness and regulatory expectations in view.
+**CreditAlo MFI** is an end-to-end **credit risk platform for microfinance and digital lending**. It takes a borrower's profile, estimates the **Probability of Default (PD)**, converts it into a transparent **0–100 credit score**, and explains every decision in plain language, while keeping fairness and regulatory expectations in view.
 
 ### 🎯 Objectives
 
